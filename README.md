@@ -16,7 +16,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://www.google.com/imgres?q=%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%20java&imgurl=https%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2020%2F09%2FJava-Logo.jpg&imgrefurl=https%3A%2F%2F1000logos.net%2Fjava-logo%2F&docid=20P0dWoJnqralM&tbnid=CXaZmVx5YsavUM&vet=12ahUKEwjGj8HmtP-XAxXdmuEIHQXRIBcQnPAOegQINRAA..i&w=3840&h=2400&hcb=2&ved=2ahUKEwjGj8HmtP-XAxXdmuEIHQXRIBcQnPAOegQINRAA)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
