@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 Computer Science Student at University Of Phayao   **<span type="placeholder" placeholder-type="place"></span>**
-- 💡 Interested in **Computer vision And Image processing**
+- 💡 Interested in **Computer vision And Image processing, Web Deployment **
 - 🎯 Current Goal: Learning Full-Stack Development and Cloud-Native Applications
 - 💬 Ask me about **JavaScript, Python, and Web Frameworks**
 
